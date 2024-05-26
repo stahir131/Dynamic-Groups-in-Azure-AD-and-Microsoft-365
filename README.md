@@ -15,3 +15,12 @@ Note: The employees are added to their department during user account creation.
 Group description: Put the description
 
 <b>Membership type:</b> Choose “Dynamic user”
+
+![DynamicG1](https://github.com/stahir131/Dynamic-Groups-in-Azure-AD-and-Microsoft-365/assets/64047385/10d0a4f9-7e7a-4a97-9974-2a7a04edadd7)
+
+Select a group owner
+
+Dynamic user members: This is where you make a query to add members to the dynamic group.
+
+Click <b>“Add dynamic query”</b>
+
