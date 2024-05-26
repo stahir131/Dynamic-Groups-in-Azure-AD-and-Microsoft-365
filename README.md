@@ -24,3 +24,15 @@ Dynamic user members: This is where you make a query to add members to the dynam
 
 Click <b>“Add dynamic query”</b>
 
+![DynamicG2](https://github.com/stahir131/Dynamic-Groups-in-Azure-AD-and-Microsoft-365/assets/64047385/19d57881-4745-4a66-b1a4-aa874b293d25)
+
+Under  Configure Rules > <b>“Property” </b> > Choose “department”  
+
+<b>Operator</b>  > Pick “Equals” 
+
+Value: Type HR
+
+<b>Save
+
+Create
+</b>
