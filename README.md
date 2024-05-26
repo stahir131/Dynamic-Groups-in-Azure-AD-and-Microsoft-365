@@ -41,3 +41,5 @@ Create
 
 I have created User1 and user2 who are HR employees and after a couple of minutes were dynamically added to the HR_dept group as seen below.
 
+![dynamicG4](https://github.com/stahir131/Dynamic-Groups-in-Azure-AD-and-Microsoft-365/assets/64047385/684fb1ba-6b89-4de8-84a1-dc31828f539e)
+
