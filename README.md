@@ -1,0 +1,1 @@
+# Dynamic-Groups-in-Azure-AD-and-Microsoft-365
