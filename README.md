@@ -32,8 +32,8 @@ Under  Configure Rules -> <b>“Property” </b> -> Choose “department”
 
 Value: Type HR
 
-<b>Save
-Create
+<b>Save</b><br />
+<b>Create
 </b>
 
 ![dynamicG3](https://github.com/stahir131/Dynamic-Groups-in-Azure-AD-and-Microsoft-365/assets/64047385/717cfe0d-877b-4a44-a7ec-4174a98bdde9)
