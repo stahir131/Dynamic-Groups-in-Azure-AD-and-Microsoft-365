@@ -33,7 +33,6 @@ Under  Configure Rules > <b>“Property” </b> > Choose “department”
 Value: Type HR
 
 <b>Save
-
 Create
 </b>
 
