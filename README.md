@@ -6,7 +6,7 @@ Dynamic group membership adds and removes group members automatically using memb
 
 Login to Entra ID admin portal
 
-<b>Groups</b> > New Group > Under Group type, Choose “Security”
+<b>Groups</b> -> New Group -> Under Group type, Choose “Security”
 
 <b>Group name:</b> Give it a name  - I named it a department name(HR_dept) because I want all employees in the HR department to be dynamically added to this group. 
 
@@ -26,9 +26,9 @@ Click <b>“Add dynamic query”</b>
 
 ![DynamicG2](https://github.com/stahir131/Dynamic-Groups-in-Azure-AD-and-Microsoft-365/assets/64047385/19d57881-4745-4a66-b1a4-aa874b293d25)
 
-Under  Configure Rules > <b>“Property” </b> > Choose “department”  
+Under  Configure Rules -> <b>“Property” </b> -> Choose “department”  
 
-<b>Operator</b>  > Pick “Equals” 
+<b>Operator</b>  -> Pick “Equals” 
 
 Value: Type HR
 
